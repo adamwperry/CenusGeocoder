@@ -1,0 +1,60 @@
+[
+  {
+    "Result": {
+      "Input": {
+        "Address": {
+          "StreetAddress": null
+        },
+        "Benchmark": {
+          "IsDefault": false,
+          "BenchmarkDescription": "Public Address Ranges - Census 2020 Benchmark",
+          "Id": "2020",
+          "BenchmarkName": "Public_AR_Census2020"
+        }
+      },
+      "AddressMatches": [
+        {
+          "TigerLine": {
+            "Side": "L",
+            "TigerLineId": "76355984"
+          },
+          "Coordinates": {
+            "X": -76.92743610939091,
+            "Y": 38.84598652130676
+          },
+          "AddressComponents": {
+            "Zip": "20233",
+            "StreetName": "SILVER HILL",
+            "PreType": "",
+            "City": "WASHINGTON",
+            "PreDirection": "",
+            "SuffixDirection": "",
+            "FromAddress": "4600",
+            "State": "DC",
+            "SuffixType": "RD",
+            "ToAddress": "4700",
+            "SuffixQualifier": "",
+            "PreQualifier": ""
+          },
+          "MatchedAddress": "4600 SILVER HILL RD, WASHINGTON, DC, 20233"
+        }
+      ]
+    }
+  },
+  {
+    "Result": {
+      "Input": {
+        "Address": {
+          "StreetAddress": null
+        },
+        "Benchmark": {
+          "IsDefault": false,
+          "BenchmarkDescription": "Public Address Ranges - Census 2020 Benchmark",
+          "Id": "2020",
+          "BenchmarkName": "Public_AR_Census2020"
+        }
+      },
+      "AddressMatches": []
+    }
+  }
+]

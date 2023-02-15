@@ -1,0 +1,42 @@
+# OS
+.DS_Store
+
+# Visual Studio
+.vs/
+*.suo
+*.userprefs
+*.csproj.user
+
+# Compiled binaries
+/bin/
+/obj/
+/project.nuget.cache
+
+# External dependencies
+/Figgle.dll
+/CommandLine.dll
+/CensusGeocoder.dll
+/Newtonsoft.Json.dll
+/Microsoft.Extensions.DependencyInjection.dll
+/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+
+# .NET 7
+/obj/2022/
+/bin/2022/
+
+# NuGet
+/packages/
+
+# Local user-specific files
+**/appsettings*.json
+**/*.user.json
+
+# .NET
+**/*.nuget.props
+**/*.nuget.targets
+
+# Benchmark files
+/2020
+
+# Logs
+*.log
