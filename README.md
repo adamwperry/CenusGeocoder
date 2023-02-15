@@ -1,5 +1,5 @@
 # CenusGeocoder
-Simple .Net 7 app that uses an api to get address information / geodate from a US street address. 
+Simple .Net 7 app that uses an api to get address information / geo data from a US street address. 
 
 ## Example Input Json 
 `This is the format of the json needed for the input file.`
